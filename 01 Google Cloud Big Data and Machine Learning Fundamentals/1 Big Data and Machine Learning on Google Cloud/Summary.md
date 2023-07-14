@@ -8,4 +8,4 @@
 
 # Computo
 
-![computo](C:\Users\dtorres\Documents\GitHub\ResumenMachineLearningGCP\01 Google Cloud Big Data and Machine Learning Fundamentals\Imagenes\compute_1.JPG)
+![computo](Images\compute_1.JPG)
