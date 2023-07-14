@@ -8,4 +8,4 @@
 
 # Computo
 
-![computo](C:/Users/dtorres/Desktop/gcp/compute_1.jpg)
+![computo](Imagenes/compute_1.jpg)
