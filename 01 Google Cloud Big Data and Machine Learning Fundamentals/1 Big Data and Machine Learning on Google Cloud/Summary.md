@@ -8,4 +8,4 @@
 
 # Computo
 
-![computo](compute_1.JPG)
+![computo](Images/compute_1.JPG)
