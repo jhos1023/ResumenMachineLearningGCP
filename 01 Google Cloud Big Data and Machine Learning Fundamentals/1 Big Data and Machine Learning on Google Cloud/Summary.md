@@ -32,4 +32,7 @@ Ejecuta aplicaciones en contenedores en un entorno de nube, a diferencia de una 
 Es una oferta de PaaS totalmente gestionada o plataforma como servicio. Las PaaS vinculan el código a las bibliotecas que brindan acceso a la aplicación de infraestructuras. Esto permite concentrar más recursos en la lógica de la aplicación. 
 
 ## Cloud Functions
-Ejecuta código en respuesta de eventos 
+Ejecuta código en respuesta de eventos como cuando se carga un nuevo archivo en Cloud Storage, es un entorno de ejecución completamente sin servidor lo que significa que no se necesita instalar ningún software localmente para ejecutar el código y no tiene un aprovisionamiento ni administrar servidores 
+
+## Cloud Run
+Plataforma informática completamente administrada que le permite ejecutar cargas de trabajo 
