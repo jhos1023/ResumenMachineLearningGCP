@@ -76,3 +76,5 @@ Si sus datos son transaccionale sy necesita acceder a ellos mediante SQL entonce
 Cloud SQL funciona mejor para escalabilidad local a regional mientras que Cloud Spanner funciona mejor para escalar globalmente. Si accedera sin SQL Firestore podria ser la mejora opción ya que es una base de datos transaccional No SQL orientada a documentos.
 
 Si la carga de trabajo es analítica requiere comandos SQL, BigQuery es la mejor opción le permite analizar conjuntos de datos a escala petabytes. Cloud Bigtable proporciona una solución NoSQL escalable para cargas de trabajo analíticas. Es mejor para aplicaciones de alto rendimiento en tiempo real que requieren solo milisegundos.
+
+![flujo3](Images/total.JPG)
